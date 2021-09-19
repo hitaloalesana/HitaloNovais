@@ -1,4 +1,4 @@
- ## Olá Mundo! Meu nome é Hitalo Novais !!!
+ ## Olá Mundo! Meu nome é Hitalo Novais !!! <img align="right" alt="Hitalo-HTML" height="100" widht="100" src="https://raw.githubusercontent.com/hitaloalesana/HitaloNovais/main/hitalo_novais.gif">
   <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitaloalesana&show_icons=true&theme=synthwave"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalesana&langs_count=8&theme=synthwave&layout=compact"/>
@@ -20,7 +20,6 @@
    <a href = "mailto:hitalo.novais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/hitalonovais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/hitaloalesana/HitaloNovais/blob/output/github-contribution-grid-snake.svg) 
- [![Watch the video](https://img.youtube.com/vi/XWECogv2Tnk/hqdefault.jpg)](https://youtu.be/XWECogv2Tnk)
+  ![Snake animation](https://github.com/hitaloalesana/HitaloNovais/blob/output/github-contribution-grid-snake.svg)
 </video>
  </div>
