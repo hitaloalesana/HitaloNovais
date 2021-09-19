@@ -1,6 +1,5 @@
  ## Olá Mundo! Meu nome é Hitalo Novais !!!
   <div>
-   <a style="text-decoration: none" href="https://github.com/hitaloalesana" target="_blank">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitaloalesana&show_icons=true&theme=synthwave"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalesana&langs_count=8&theme=synthwave&layout=compact"/>
   </div>
