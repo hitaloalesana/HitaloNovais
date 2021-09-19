@@ -10,6 +10,8 @@
    <img align="center" alt="Hitalo-C" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="Hitalo-JAVA" height="45" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
  </div>
+ 
+ 
 <div>
   <a href="https://www.youtube.com/channel/UCmvL2fYLQk8eJpmH1X-rStQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://www.twitch.tv/cerasgames" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
