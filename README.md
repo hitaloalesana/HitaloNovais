@@ -1,7 +1,7 @@
  ## Olá Mundo! Meu nome é Hitalo Novais !!! <img align="right" alt="Hitalo-HTML" height="120" widht="120" src="https://raw.githubusercontent.com/hitaloalesana/HitaloNovais/main/hitalo_novais.gif">
  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitaloalesana&show_icons=true&theme=synthwave"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalesana&langs_count=8&theme=synthwave&layout=compact"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalesana&hide=CMake,M4,Makefile,Perl,Shell,Batchfile&langs_count=8&theme=synthwave&layout=compact"/>
  </div>
  <div style="display: inline_block"><br>
    <img align="center" alt="Hitalo-HTML" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
