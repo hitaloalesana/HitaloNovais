@@ -20,6 +20,7 @@
    <a href = "mailto:hitalo.novais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/hitalonovais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/hitaloalesana/HitaloNovais/blob/output/github-contribution-grid-snake.svg) <video width="120" height="140"><source src="hitalo_novais.mp4" type="video/mp4">
+  ![Snake animation](https://github.com/hitaloalesana/HitaloNovais/blob/output/github-contribution-grid-snake.svg) 
+ [![Watch the video](https://img.youtube.com/vi/XWECogv2Tnk/hqdefault.jpg)](https://youtu.be/XWECogv2Tnk)
 </video>
  </div>
