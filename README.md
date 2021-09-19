@@ -1,4 +1,6 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitaloalesana&show_icons=true&theme=synthwave)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalesana&layout=compact)]
+
 
  <a href="https://yt3.ggpht.com/yti/APfAmoFcF0a1OPcC9y_uZBTOfqwkTYfIxklJlTTfjLyiLrU=s88-c-k-c0x00ffffff-no-rj-mo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/cerasgames" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
