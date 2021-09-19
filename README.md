@@ -1,4 +1,4 @@
- ## Olá Mundo! Meu nome é Hitalo Novais !!! <img align="right" alt="Hitalo-HTML" height="100" widht="100" src="https://raw.githubusercontent.com/hitaloalesana/HitaloNovais/main/hitalo_novais.gif">
+ ## Olá Mundo! Meu nome é Hitalo Novais !!! <img align="right" alt="Hitalo-HTML" height="120" widht="120" src="https://raw.githubusercontent.com/hitaloalesana/HitaloNovais/main/hitalo_novais.gif">
  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitaloalesana&show_icons=true&theme=synthwave"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalesana&langs_count=8&theme=synthwave&layout=compact"/>
