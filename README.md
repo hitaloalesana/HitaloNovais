@@ -1,15 +1,15 @@
  ## Olá Mundo! Meu nome é Hitalo Novais !!!
   <div>
-   <a href="https://github.com/hitaloalesana">
+   <a style="text-decoration: none" href="https://github.com/hitaloalesana" target="_blank">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitaloalesana&show_icons=true&theme=synthwave"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalesana&langs_count=8&theme=synthwave&layout=compact"/>
   </div>
   <div style="display: inline_block"><br>
-   <img align="center" alt="Hitalo-HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-   <img align="center" alt="Hitalo-CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+   <img align="center" alt="Hitalo-HTML" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+   <img align="center" alt="Hitalo-CSS" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
    <img align="center" alt="Hitalo-JS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Hitalo-C" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="center" alt="Hitalo-JAVA" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="Hitalo-C" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+   <img align="center" alt="Hitalo-JAVA" height="45" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   </div> 
 
      ##
